@@ -164,10 +164,10 @@ export default function HafaSambandPage() {
                       <div>
                         <h3 className="font-semibold text-lg mb-1">Netfang</h3>
                         <a
-                          href="mailto:hallo@bokakrokur.is"
+                          href="mailto:hallo@bokakrokur.com"
                           className="text-muted-foreground hover:text-primary transition-colors"
                         >
-                          hallo@bokakrokur.is
+                          hallo@bokakrokur.com
                         </a>
                       </div>
                     </div>
@@ -181,10 +181,10 @@ export default function HafaSambandPage() {
                       <div>
                         <h3 className="font-semibold text-lg mb-1">Sími</h3>
                         <a
-                          href="tel:+3541234567"
+                          href="tel:+3542415287"
                           className="text-muted-foreground hover:text-accent-foreground transition-colors"
                         >
-                          +354 123 4567
+                          +354 241 5287
                         </a>
                       </div>
                     </div>

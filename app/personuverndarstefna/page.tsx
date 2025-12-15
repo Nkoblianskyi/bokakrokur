@@ -123,7 +123,7 @@ export default function PersonuverndarstefnaPage() {
                 <p className="leading-relaxed">
                   Ef þú hefur einhverjar spurningar um þessa persónuverndarstefnu eða hvernig við meðhöndlum
                   persónuupplýsingar þínar, vinsamlegast hafðu samband við okkur í gegnum samskiptasíðu okkar eða sendu
-                  tölvupóst á hallo@bokakrokur.is.
+                  tölvupóst á hallo@bokakrokur.com.
                 </p>
               </CardContent>
             </Card>

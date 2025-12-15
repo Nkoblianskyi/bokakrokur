@@ -87,7 +87,7 @@ export default function VafrakokustefnaPage() {
                 <h2>Hafa samband</h2>
                 <p className="leading-relaxed">
                   Ef þú hefur einhverjar spurningar um vafrakökustefnu okkar, vinsamlegast hafðu samband við okkur í
-                  gegnum samskiptasíðu okkar eða sendu tölvupóst á hallo@bokakrokur.is.
+                  gegnum samskiptasíðu okkar eða sendu tölvupóst á hallo@bokakrokur.com.
                 </p>
               </CardContent>
             </Card>
